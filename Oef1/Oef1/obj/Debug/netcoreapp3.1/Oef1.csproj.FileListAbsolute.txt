@@ -1,0 +1,17 @@
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\obj\Debug\netcoreapp3.1\Oef1.csprojAssemblyReference.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\obj\Debug\netcoreapp3.1\Oef1.AssemblyInfoInputs.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\obj\Debug\netcoreapp3.1\Oef1.AssemblyInfo.cs
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\bin\Debug\netcoreapp3.1\Oef1.exe
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\bin\Debug\netcoreapp3.1\Oef1.deps.json
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\bin\Debug\netcoreapp3.1\Oef1.runtimeconfig.json
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\bin\Debug\netcoreapp3.1\Oef1.runtimeconfig.dev.json
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\bin\Debug\netcoreapp3.1\Oef1.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\bin\Debug\netcoreapp3.1\Oef1.pdb
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\obj\Debug\netcoreapp3.1\Oef1.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\obj\Debug\netcoreapp3.1\Oef1.pdb
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\obj\Debug\netcoreapp3.1\Oef1.genruntimeconfig.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\obj\Debug\netcoreapp3.1\Oef1.csproj.CopyComplete
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Ichoosr\Oef1\Oef1\obj\Debug\netcoreapp3.1\Oef1.csproj.CoreCompileInputs.cache
